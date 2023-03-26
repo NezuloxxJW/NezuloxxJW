@@ -1,6 +1,8 @@
 ### Hi there 👋
-I am learning dev
-C++, Html, Css, Js, Python
+🔭 I’m currently working on Valorant cheats
+🌱 I’m currently learning C++
+📫 How to reach me: /Nezuloxx#4125
+
 
 <!--
 **NezuloxxJW/NezuloxxJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
