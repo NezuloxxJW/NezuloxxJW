@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I am learning dev
-### C++, Html, Css, Js, Python
+I am learning dev
+C++, Html, Css, Js, Python
 
 <!--
 **NezuloxxJW/NezuloxxJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
