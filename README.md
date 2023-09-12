@@ -1,13 +1,12 @@
 ### Hi there 👋
-🔭 I’m currently working on cheats and protected loaders
+I do cheats and protected loaders
 
-🌱 I’m currently learning C++
+I’m currently working on valorant cheats / making a good first website (not my domain haha)
 
-📫 How to reach me :
+I’m currently learning C++ (Kernel)
 
-(Discord): /Nezuloxx
+How to reach me : (Discord) /Nezuloxx
 
-(Unknowncheat): Kelloxx
 
 
 <!--
