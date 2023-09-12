@@ -1,9 +1,11 @@
 ### Hi there 👋
-🔭 I’m currently working on Valorant cheats
+🔭 I’m currently working on cheats and protected loaders
 
 🌱 I’m currently learning C++
 
-📫 How to reach me: /Nezuloxx#4125
+📫 How to reach me :
+(Discord): /Nezuloxx
+(Unknowncheat): Kelloxx
 
 
 <!--
