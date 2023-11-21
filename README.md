@@ -1,7 +1,7 @@
 ### Hi there 👋
 I do cheats and protected loaders
 
-I’m currently working on valorant cheats / making a good first website (not my domain haha)
+I’m currently on a protected auth system hostable
 
 I’m currently learning C++ (Kernel)
 
