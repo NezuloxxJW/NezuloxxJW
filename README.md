@@ -1,7 +1,7 @@
 ### Hi there 👋
 I do cheats and protected loaders
-
-I’m currently on a protected auth system hostable
+I’m currently on a fully loader,
+using self hosted databases and I have added a lot of security to the loader too
 
 I’m currently learning C++ (Kernel)
 
