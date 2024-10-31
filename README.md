@@ -1,25 +1,23 @@
-### Hi there 👋
-I do cheats and protected loaders
-I’m currently on a fully loader,
-using self hosted databases and I have added a lot of security to the loader too
+## Hi there! 👋
 
-I’m currently learning C++ (Kernel)
+I'm **Nezuloxx**, a passionate developer living in **Switzerland**. You may know me as **kelloxx** too ;)
 
-How to reach me : (Discord) /Nezuloxx
+I enjoy exploring new technologies and building innovative projects. Let's connect and create something amazing together!
 
+## About Me
 
+**Bio:** Living in `System32\Chakra.dll`
 
-<!--
-**NezuloxxJW/NezuloxxJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I'm focused on developing various projects and expanding my skills in software development. I love to engage with the community and contribute to open-source projects.
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+cpp,py,flask,js
+
+## Recent Activity
+
+- Created [SecureRoom](https://github.com/NezuloxxJW/SecureRoom)
+
+## Connect with Me
+
+Discord : /nezuloxx
