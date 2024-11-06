@@ -9,7 +9,7 @@ I enjoy exploring new technologies and building innovative projects. Let's conne
 **Bio:** Living in `System32\Chakra.dll`
 
 I'm a game cheat developer and that's my main projects, unfortunately they are private.
-Currently, I'm focused on developing various projects and expanding my skills in software development. I love to engage with the community and contribute to open-source projects.
+Currently, I'm focused on developing various projects and expanding my skills in software development. 
 
 ## Skills & Technologies
 
