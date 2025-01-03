@@ -11,6 +11,7 @@ This world is a wasteland where nothing can grow, dont let me go.
 **Bio:** Living in `System32\Chakra.dll`
 
 I'm a game cheat developer and that's my main projects, unfortunately they are private.
+
 Currently, I'm developing a new secure auth system using c++, and more techs for backend.
 
 ## Skills & Technologies
