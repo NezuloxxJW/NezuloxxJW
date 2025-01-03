@@ -2,7 +2,7 @@
 
 I'm **Nezuloxx**, a passionate developer living in **Switzerland**. You may know me as **kelloxx** too ;)
 
-I enjoy exploring new technologies and building innovative projects. Let's connect and create something amazing together!
+I enjoy exploring new technologies. Let's connect and create something together!
 
 This world is a wasteland where nothing can grow, dont let me go. 
 
