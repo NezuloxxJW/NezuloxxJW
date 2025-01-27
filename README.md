@@ -4,7 +4,7 @@ I'm **Nezuloxx**, a passionate developer living in **Switzerland**. You may know
 
 I enjoy exploring new technologies. Let's connect and create something together!
 
-This world is a wasteland where nothing can grow, dont let me go. 
+This world is a wasteland, where nothing can grow.
 
 ## About Me
 
