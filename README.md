@@ -2,7 +2,7 @@
 
 I'm **Nezuloxx**, a passionate developer living in **Switzerland**. You may know me as **kelloxx** too ;)
 
-I enjoy exploring new technologies. Let's connect and create something together!
+I enjoy working with people who use their brains-—occasionally. Let's connect and create something together!
 
 This world is a wasteland, where nothing can grow.
 
@@ -10,9 +10,13 @@ This world is a wasteland, where nothing can grow.
 
 **Bio:** Living in `System32\Chakra.dll`
 
-I'm a game cheat developer and that's my main projects, unfortunately they are private.
+I mainly make game cheat, unfortunately those are private repos.
 
-Currently, I'm developing a new secure auth system using c++, and more techs for backend.
+Currently, 
+I'm beautifying my POC, and deving a fast color / AI aimbot for low-end PC.
+
+If you want to work with me, I've currently made a project stand by which you could may help me with.
+I need to find a way to get full kernel address from ntoskrnl on x86 dll.
 
 ## Skills & Technologies
 
@@ -25,4 +29,4 @@ Flask
 
 ## Connect with Me
 
-Discord : /nezuloxx
+Discord : nezuloxx
