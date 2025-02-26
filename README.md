@@ -16,6 +16,7 @@ Currently,
 I'm beautifying my POC, and deving a fast color / AI aimbot for low-end PC.
 
 If you want to work with me, I've currently made a project stand by which you could may help me with.
+
 I need to find a way to get full kernel address from ntoskrnl on x86 dll.
 
 ## Skills & Technologies
