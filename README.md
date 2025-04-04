@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Nezuloxx/Kelloxx
 
-**📍 Swiss-based Developer** | **🎓 3rd Year IT Student** | **🛠️ Low-Level Enthusiast**  
+**📍 Swiss-based Developer** | **🎓 3rd Year IT Student System Admin** | **🛠️ Low-Level Enthusiast**  
 *"I enjoy collaborating with thinkers who occasionally use their brains"*
 
 ---
