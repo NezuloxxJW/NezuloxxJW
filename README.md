@@ -1,32 +1,51 @@
-## Hi there! 👋
+# 👋 Hey! I'm Nezuloxx/Kelloxx
 
-I'm **Nezuloxx**, a passionate developer living in **Switzerland**. You may know me as **kelloxx** too ;)
+**📍 Swiss-based Developer** | **🎓 3rd Year IT Student** | **🛠️ Low-Level Enthusiast**  
+*"I enjoy collaborating with thinkers who occasionally use their brains"*
 
-I enjoy working with people who use their brains-—occasionally.
+---
 
-## About Me
+## 🧑💻 About Me
 
 **Bio:** Living in `System32\Chakra.dll`
 
 I mainly make game cheat, unfortunately those are private repos.
 
-Currently, 
-I'm deving a fast color / AI aimbot for low-end PC.
+---
+
+## 🔥 Current Obsession
+**🎯 AI-Powered Color AimBot**  
+*Building performant aim assistance for potato PCs*  
+`Status:` Optimizing inference models | `Stack:` C++17, DirectX hooks, ONNX/TensorRT
+
+---
+
+## ⚙️ Core Stack
+
+| **Low-Level**      | **Web**          | **Tools**         |
+|---------------------|------------------|-------------------|
+| 🐢 C++20            | 🐍 Python/Flask  | 🧩 IDA Pro        |
+| 🔐 Kernel Drivers   | 🌐 JavaScript    | 🔧 WinDbg         |
+| 🧠 x86 ASM          | 🗃️ SQLite        | ⚡ Cheat Engine   |
+
+---
+
+## 🚀 Active Projects
+
+### [🔒 SecureRoom](https://github.com/NezuloxxJW/SecureRoom) 
+### [💻 KMUM-COMM-PHYSMEM](https://github.com/NezuloxxJW/KMUM-COMM-PHYSMEM)
+
+---
+
+## 🤝 Collaboration Call
+**🚧 Seeking Kernel Whisperers**  
 
 If you want to work with me, I've currently made a project stand by which you could may help me with.
 
-I need to find a way to get full kernel address from ntoskrnl on x86 dll.
+// Help needed: ntoskrnl address resolution on x86
 
-## Skills & Technologies
+---
 
-C++, Python, Javascript
-Flask & more
-
-## Recent Activity
-
-- [SecureRoom](https://github.com/NezuloxxJW/SecureRoom)
-- [KM-UM-PHYSMEM](https://github.com/NezuloxxJW/KM-UM-PHYSMEM)
-
-## Connect with Me
+## 📡 Connect
 
 Discord : nezuloxx
