@@ -7,7 +7,7 @@
 
 ## 🧑💻 About Me
 
-**Bio:** Living in `System32\Chakra.dll`
+ iving in `System32\Chakra.dll`
 
 I mainly make game cheat, unfortunately those are private repos.
 
