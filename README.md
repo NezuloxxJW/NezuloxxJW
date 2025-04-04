@@ -42,7 +42,7 @@ I mainly make game cheat, unfortunately those are private repos.
 
 If you want to work with me, I've currently made a project stand by which you could may help me with.
 
-// Help needed: ntoskrnl address resolution on x86
+// Help needed: ntoskrnl address resolution on x86 dll (from UM)
 
 ---
 
