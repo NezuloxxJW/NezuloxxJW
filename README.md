@@ -1,7 +1,6 @@
 # 👋 Hey! I'm Nezuloxx/Kelloxx
 
-**📍 Swiss-based Developer** | **🎓 3rd Year IT Student System Admin** | **🛠️ Low-Level Enthusiast**  
-*"I enjoy collaborating with thinkers who occasionally use their brains"*
+**📍 Swiss-based Developer** | **🎓 3rd Year IT Student System Admin** |
 
 ---
 
@@ -13,10 +12,10 @@ I mainly make game cheat, unfortunately those are private repos.
 
 ---
 
-## 🔥 Current Obsession
+## 🔥 Current project
 **🎯 AI-Powered Color AimBot**  
 *Building performant aim assistance for potato PCs*  
-`Status:` Optimizing inference models | `Stack:` C++17, DirectX hooks, ONNX/TensorRT
+`Status:` Optimizing inference models | `Stack:` C++, Yolo, OpenCV
 
 ---
 
@@ -25,8 +24,8 @@ I mainly make game cheat, unfortunately those are private repos.
 | **Low-Level**      | **Web**          | **Tools**         |
 |---------------------|------------------|-------------------|
 | 🐢 C++20            | 🐍 Python/Flask  | 🧩 IDA Pro        |
-| 🔐 Kernel Drivers   | 🌐 JavaScript    | 🔧 WinDbg         |
-| 🧠 x86 ASM          | 🗃️ SQLite        | ⚡ Cheat Engine   |
+| 🔐 Kernel Drivers   | 🌐 JavaScript    | 🔧 VS22         |
+|          | 🗃️ SQLite        | ⚡ Cheat Engine   |
 
 ---
 
