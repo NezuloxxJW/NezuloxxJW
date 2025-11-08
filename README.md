@@ -18,7 +18,7 @@ I mainly make game cheat, unfortunately those are private repos.
 `Status:` Optimizing inference models | `Stack:` C++, Yolo, OpenCV
 
 **🎯 Hyper-V runtime hijack**  
-*Hijack hyper-V to get r/w physical memory without abusing smi count*  
+*Hijack hyper-V from smm to get r/w physical memory without abusing smi count*  
 `Status:` in dev | `Stack:` C++, ASM, IDA
 
 ---
