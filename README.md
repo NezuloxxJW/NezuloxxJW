@@ -17,15 +17,9 @@ I mainly make game cheat, unfortunately those are private repos.
 *Building performant aim assistance for potato PCs*  
 `Status:` Optimizing inference models | `Stack:` C++, Yolo, OpenCV
 
----
-
-## ⚙️ Core Stack
-
-| **Low-Level**      | **Web**          | **Tools**         |
-|---------------------|------------------|-------------------|
-| 🐢 C++20            | 🐍 Python/Flask  | 🧩 IDA Pro        |
-| 🔐 Kernel Drivers   | 🌐 JavaScript    | 🔧 VS22         |
-|          | 🗃️ SQLite        | ⚡ Cheat Engine   |
+**🎯 Hyper-V runtime hijack**  
+*Hijack hyper-V to get r/w physical memory without abusing smi count*  
+`Status:` in dev | `Stack:` C++, ASM, IDA
 
 ---
 
@@ -41,7 +35,7 @@ I mainly make game cheat, unfortunately those are private repos.
 
 If you want to work with me, I've currently made a project stand by which you could may help me with.
 
-// Help needed: ntoskrnl address resolution on x86 dll (from UM)
+// Help needed: smm integrity check bypass
 
 ---
 
