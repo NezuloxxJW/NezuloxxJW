@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Nezuloxx/Kelloxx
 
-**📍 Swiss-based Developer** | **🎓 3rd Year IT Student System Admin** |
+**📍 Swiss-based Developer** | **🎓 4th Year IT Student System Admin** |
 
 ---
 
