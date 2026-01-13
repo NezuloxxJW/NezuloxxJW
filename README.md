@@ -18,10 +18,13 @@ Most of my complex work (Game Security/Cheats) resides in private repos to keep 
 ### 🛠️ Arsenal & Tech Stack
 
 **Low Level & Reversing**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/ASM-A8B9CC?style=flat&logo=intel&logoColor=black) ![IDA Pro](https://img.shields.io/badge/IDA_Pro-1f2228?style=flat&logo=c&logoColor=white) ![Windows Internals](https://img.shields.io/badge/Windows_Kernel-0078D6?style=flat&logo=windows&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![IDA Pro](https://img.shields.io/badge/IDA_Pro-1f2228?style=flat&logo=c&logoColor=white) ![Windows Internals](https://img.shields.io/badge/Windows_Kernel-0078D6?style=flat&logo=windows&logoColor=white)
 
-**Automation & AI**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+**Backend & Network**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Uvicorn](https://img.shields.io/badge/uvicorn-%232CA5E0.svg?style=flat&logo=gunicorn&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+
+**Infrastructure & System Ops**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -42,7 +45,7 @@ Most of my complex work (Game Security/Cheats) resides in private repos to keep 
 
 #### 🔒 [SecureRoom](https://github.com/NezuloxxJW/SecureRoom)
 > **School Project**
-> Webapp to reserve a room, integrated with **NFC readers** to communicate with smart locks via **MQTT**.
+> Webapp to reserve a room, integrated with **NFC readers** to unlock smart locks via **MQTT**.
 
 ---
 
