@@ -41,7 +41,6 @@ Most of my complex work (Game Security/Cheats) resides in private repos to keep 
 #### 💻 [KMUM-COMM-PHYSMEM](https://github.com/NezuloxxJW/KMUM-COMM-PHYSMEM)
 > **Kernel Mode communication with Usermode using physical memory.**
 > Proving concepts around memory manipulation and driver communication.
-> * **Feature:** Manual Map friendly.
 
 #### 🔒 [SecureRoom](https://github.com/NezuloxxJW/SecureRoom)
 > **School Project**
