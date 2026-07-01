@@ -7,7 +7,7 @@
 > *Living in `System32\Chakra.dll`*
 
 I specialize in **Low-level programming**, **Reverse Engineering**, and **Kernel manipulation**.
-Most of my complex work (Game Security/Cheats) resides in private repos to keep things... quiet. 🤫
+Most of my complex work (Hypervisor/Windows Security) resides in private repos to keep things... quiet. 🤫
 
 [<img src="https://img.shields.io/badge/Discord-nezuloxx-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/nezuloxx)
 
