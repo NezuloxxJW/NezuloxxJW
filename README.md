@@ -32,7 +32,7 @@ Most of my complex work (Hypervisor/Windows Security) resides in private repos t
 
 | Project | Status | Stack |
 | :--- | :--- | :--- |
-| **🎯 Hyper-V Runtime Hijack**<br>Hijacking Hyper-V from SMM or EFI to get R/W physical memory access without abusing SMI count. | `In Dev` | **C++, ASM, IDA** |
+| **🎯 Hyper-V Boot Detour**<br>Detouring and understanding how Hyper-V works and handles memory management. | `In Dev` | **C++, ASM, IDA** |
 
 ---
 
@@ -47,12 +47,6 @@ Most of my complex work (Hypervisor/Windows Security) resides in private repos t
 > Webapp to reserve a room, integrated with **NFC readers** to unlock smart locks via **MQTT**.
 
 ---
-
-### 🤝 Collaboration Call
-
-#### 🚧 Seeking Kernel Whisperers
-I have a project on standby that requires advanced expertise.
-> **Mission:** `Achieve execution loop undetected by the Kernel`
 
 If you speak ASM fluently and dream in Hex, hit me up on Discord: **nezuloxx**
 
