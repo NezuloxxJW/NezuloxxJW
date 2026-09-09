@@ -4,10 +4,8 @@
 
 ### 🇨🇭 Swiss-based Developer | 🎓 4th Year IT Student (System Admin)
 
-> *Living in `System32\Chakra.dll`*
-
 I specialize in **Low-level programming**, **Reverse Engineering**, and **Kernel manipulation**.
-Most of my complex work (Hypervisor/Windows Security) resides in private repos to keep things... quiet. 🤫
+Most of my complex work (Hypervisor/Windows Security) resides in private repos to keep things... quiet. 
 
 [<img src="https://img.shields.io/badge/Discord-nezuloxx-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/nezuloxx)
 
@@ -32,8 +30,9 @@ Most of my complex work (Hypervisor/Windows Security) resides in private repos t
 
 | Project | Status | Stack |
 | :--- | :--- | :--- |
-| **🎯 Hyper-V Boot Detour**<br>Detouring and understanding how Hyper-V works and handles memory management. | `In Dev` | **C++, ASM, IDA** |
-
+| **🎯 Hyper-V Detour**<br>Detouring and understanding how Hyper-V works and handles memory management. | `In Dev` | **C++, ASM, IDA** |
+| **DSP software remake**<br>Remake whole software for my audio processor | `In Dev` | **C++, ASM, IDA** |
+| **Custom CAD with simulation**<br>Using physics to simulate and design cabinet for free party | `In Dev` | **C++, ASM, IDA** |
 ---
 
 ### 🚀 Active & Public Projects
@@ -47,11 +46,3 @@ Most of my complex work (Hypervisor/Windows Security) resides in private repos t
 > Webapp to reserve a room, integrated with **NFC readers** to unlock smart locks via **MQTT**.
 
 ---
-
-If you speak ASM fluently and dream in Hex, hit me up on Discord: **nezuloxx**
-
----
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NezuloxxJW&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="NezuloxxJW's GitHub stats" />
-</div>
