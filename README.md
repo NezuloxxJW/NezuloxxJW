@@ -31,8 +31,8 @@ Most of my complex work (Hypervisor/Windows Security) resides in private repos t
 | Project | Status | Stack |
 | :--- | :--- | :--- |
 | **🎯 Hyper-V Detour**<br>Detouring and understanding how Hyper-V works and handles memory management. | `In Dev` | **C++, ASM, IDA** |
-| **DSP software remake**<br>Remake whole software for my audio processor | `In Dev` | **C++, ASM, IDA** |
-| **Custom CAD with simulation**<br>Using physics to simulate and design cabinet for free party | `In Dev` | **C++, ASM, IDA** |
+| **DSP software remake**<br>Remake whole software for my audio processor | `In Dev` | **C++, IDA** |
+| **Custom CAD with simulation**<br>Using physics to simulate and design cabinet for free party | `In Dev` | **C++** |
 ---
 
 ### 🚀 Active & Public Projects
